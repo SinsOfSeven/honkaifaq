@@ -1,0 +1,146 @@
+[x]   1: war treasury
+[x]   3: damage, damage types
+[x]   4: how pity works, pity
+[x]   5: expedition
+[x]   6: frags
+[x]   7: qte
+[x]   8: newton b, newt b
+[x]   9: subtitles
+[x]  10: pc, pc ver, pc login
+[x]  11: pc specs, spec, specs
+[x]  12: huawei
+[ ]  13: fr tierlist, fr valks
+[ ]  14: fr pont
+[ ]  15: fr new
+[ ]  16: fr dmg
+[ ]  17: fr stamina
+[ ]  18: fr rank
+[ ]  19: faq fr bounty
+[x]  20: hov
+[x]  22: abbreviations, abbr
+[ ]  24: fr subs
+[ ]  25: fr pri
+[ ]  26: faq shortcuts
+[x]  27: tf
+[x]  28: crt
+[ ]  29: fr oeuf
+[ ]  30: fr xp
+[ ]  31: fr xtal
+[ ]  32: bounty
+[x]  33: evasion
+[x]  34: egg
+[x]  35: shop
+[ ]  36: bug
+[x]  37: rankup
+[x]  38: attack types
+[x]  39: bd holder
+[ ]  40: huevo
+[x]  41: awaken
+[x]  42: combo attack, charged attack, branch attack
+[ ]  43: mtkek
+[x]  44: wrong server
+[ ]  45: katana choice
+[ ]  46: time capsule
+[ ]  47: daños
+[ ]  48: growth fund
+[x]  49: gamepath
+[ ]  50: difficulty
+[x]  51: augment
+[x]  53: pri costs
+[x]  54: pcclearcache
+[x]  55: bingo
+[ ]  56: abreviaciones
+[ ]  57: mantenimiento
+[x]  59: reroll
+[x]  60: goals
+[x]  61: whatserver
+[ ]  62: income
+[ ]  63: valkbridge
+[ ]  64: fallen crystallum
+[x]  65: pri what
+[x]  66: expeditions
+[ ]  67: check ranking
+[ ]  68: asterites priority, aster
+[ ]  69: linkmihoyo
+[ ]  70: stamina regen
+[ ]  71: resonance, exchange shop
+[ ]  72: dmg, eli5damage, eli5dmg
+[ ]  73: dk why
+[ ]  74: rates
+[ ]  75: resource uses
+[ ]  76: level up break through break the ceiling experience rush
+[ ]  78: salvage mats
+[ ]  80: context
+[ ]  81: battlesuit
+[ ]  82: reaction
+[ ]  83: affix
+[ ]  84: firepower
+[ ]  85: impair
+[x]  86: breach, elemental breach, physical breach, ele breach, phys breach
+[ ]  87: input buffer
+[ ]  88: divine key raid, grips of tai xuan raid, tai xuan how, divine key coop raid
+[ ]  89: gamelog
+[ ]  90: pinned polite
+[ ]  91: valk gearing, pulling gear, pulling gacha gear
+[ ]  93: constellation
+[ ]  95: beta
+[ ]  96: gold pins
+[x]  97: pri leveling
+[ ]  98: future events, future banners, future supplies
+[ ] 100: valks tier list
+[ ] 101: salvage stigma
+[ ] 102: ancient
+[ ] 103: resources
+[ ] 104: iguid
+[ ] 105: story crystals, story xtals
+[ ] 106: witch orbs, pure witch orbs, pure elf orbs, witch's corridor
+[ ] 108: dkey what
+[ ] 109: dkey passive
+[ ] 111: main
+[ ] 112: hoyolab profile, hoyolab record
+[ ] 113: expa foca supply select
+[ ] 114: topup event
+[ ] 115: spoonfeed
+[ ] 116: valk fk
+[ ] 117: hos why
+[ ] 118: team
+[ ] 119: aug what
+[ ] 120: wishing well
+[ ] 121: duplicates, dupes
+[ ] 122: elf unlock, elf ranks
+[ ] 123: valk ht
+[ ] 124: pity counter, guarantee counter
+[ ] 125: account
+[ ] 126: chatmt
+[ ] 127: accrecovery
+[ ] 128: id build
+[ ] 129: id pemula
+[ ] 130: accid
+[ ] 131: pc advantages, keyboard advantages, controller
+[ ] 132: highreq
+[ ] 133: elysian realm guide, er guide, er signets
+[ ] 134: distance, 5 meters
+[ ] 135: what2pull, what to pull, pull advice
+[ ] 136: type counter
+[ ] 137: audio57
+[ ] 138: mirage farming, farming priority, farming order, universal mirage
+[ ] 139: find sensei, find armada, find cadet
+[ ] 140: ht bombard, ht breath
+[x] 141: honaki
+[ ] 142: 3rd party login, hoyolab login
+[ ] 143: hoyolab google
+[ ] 144: uid58
+[ ] 145: unbind, unlink
+[ ] 146: stigmata what
+[ ] 147: torus income
+[x] 148: zith
+[ ] 149: tune
+[x] 150: pcspec
+[ ] 151: mandown
+[ ] 152: stamina priority, stamina spending
+[x] 153: pcspecs
+[ ] 154: powercreep, power creep, old valks, outdated
+[ ] 155: power, usefulness, return on investment, roi, payoff
+[ ] 156: dst
+[x] 157: pri priority, pri-arm priority
+[ ] 158: early game, late game
