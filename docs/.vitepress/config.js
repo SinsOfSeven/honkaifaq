@@ -10,6 +10,12 @@ export default {
 
     themeConfig: {
         sidebar: customBar()
+    },
+
+    markdown: {
+        toc: {
+            level: [2]
+        }
     }
 }
 
