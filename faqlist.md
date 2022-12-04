@@ -39,12 +39,12 @@
 - [x]  42: combo attack, charged attack, branch attack
 - [ ]  43: mtkek
 - [x]  44: wrong server
-- [ ]  45: katana choice
-- [ ]  46: time capsule
+- [x]  45: katana choice
+- [x]  46: time capsule
 - [ ]  47: daños
-- [ ]  48: growth fund
+- [x]  48: growth fund
 - [x]  49: gamepath
-- [ ]  50: difficulty
+- [x]  50: difficulty
 - [x]  51: augment
 - [x]  53: pri costs
 - [x]  54: pcclearcache
@@ -54,9 +54,9 @@
 - [x]  59: reroll
 - [x]  60: goals
 - [x]  61: whatserver
-- [ ]  62: income
-- [ ]  63: valkbridge
-- [ ]  64: fallen crystallum
+- [x]  62: income
+- [x]  63: valkbridge
+- [x]  64: fallen crystallum
 - [x]  65: pri what
 - [x]  66: expeditions
 - [ ]  67: check ranking
