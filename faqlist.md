@@ -39,12 +39,12 @@
 - [x]  42: combo attack, charged attack, branch attack
 - [ ]  43: mtkek
 - [x]  44: wrong server
-- [ ]  45: katana choice
-- [ ]  46: time capsule
+- [x]  45: katana choice
+- [x]  46: time capsule
 - [ ]  47: daños
-- [ ]  48: growth fund
+- [x]  48: growth fund
 - [x]  49: gamepath
-- [ ]  50: difficulty
+- [x]  50: difficulty
 - [x]  51: augment
 - [x]  53: pri costs
 - [x]  54: pcclearcache
@@ -54,53 +54,54 @@
 - [x]  59: reroll
 - [x]  60: goals
 - [x]  61: whatserver
-- [ ]  62: income
-- [ ]  63: valkbridge
-- [ ]  64: fallen crystallum
+- [x]  62: income
+- [x]  63: valkbridge
+- [x]  64: fallen crystallum
 - [x]  65: pri what
 - [x]  66: expeditions
 - [ ]  67: check ranking
-- [ ]  68: asterites priority, aster
+- [x]  68: asterites priority, aster
 - [ ]  69: linkmihoyo
-- [ ]  70: stamina regen
+- [x]  70: stamina regen
 - [ ]  71: resonance, exchange shop
 - [ ]  72: dmg, eli5damage, eli5dmg
 - [ ]  73: dk why
 - [ ]  74: rates
 - [ ]  75: resource uses
 - [ ]  76: level up break through break the ceiling experience rush
-- [ ]  78: salvage mats
-- [ ]  80: context
-- [ ]  81: battlesuit
-- [ ]  82: reaction
-- [ ]  83: affix
-- [ ]  84: firepower
-- [ ]  85: impair
+- [x]  78: salvage mats
+- [x]  80: context
+- [x]  81: battlesuit
+- [x]  82: reaction
+- [x]  83: affix
+- [x]  84: firepower
+- [x]  85: impair
 - [x]  86: breach, elemental breach, physical breach, ele breach, phys breach
 - [ ]  87: input buffer
-- [ ]  88: divine key raid, grips of tai xuan raid, tai xuan how, divine key coop raid
-- [ ]  89: gamelog
-- [ ]  90: pinned polite
+- [x]  88: divine key raid, grips of tai xuan raid, tai xuan how, divine key coop raid
+- [x]  89: gamelog
+- [x]  90: pinned polite
 - [ ]  91: valk gearing, pulling gear, pulling gacha gear
 - [ ]  93: constellation
 - [ ]  95: beta
 - [ ]  96: gold pins
 - [x]  97: pri leveling
 - [ ]  98: future events, future banners, future supplies
-- [ ] 100: valks tier list
-- [ ] 101: salvage stigma
-- [ ] 102: ancient
-- [ ] 103: resources
-- [ ] 104: iguid
-- [ ] 105: story crystals, story xtals
-- [ ] 106: witch orbs, pure witch orbs, pure elf orbs, witch's corridor
-- [ ] 108: dkey what
-- [ ] 109: dkey passive
+- [x] 100: valks tier list
+- [x] 101: salvage stigma
+- [x] 102: ancient
+- [x] 103: resources
+- [x] 104: iguid
+- [x] 105: story crystals, story xtals
+- [x] 106: witch orbs, pure witch orbs, pure elf orbs, witch's corridor
+- [x] 108: dkey what
+- [x] 109: dkey passive
+- [x] 110: suit sw
 - [ ] 111: main
 - [ ] 112: hoyolab profile, hoyolab record
 - [ ] 113: expa foca supply select
 - [ ] 114: topup event
-- [ ] 115: spoonfeed
+- [x] 115: spoonfeed
 - [ ] 116: valk fk
 - [ ] 117: hos why
 - [ ] 118: team
