@@ -61,14 +61,14 @@
 - [x]  66: expeditions
 - [ ]  67: check ranking
 - [x]  68: asterites priority, aster
-- [ ]  69: linkmihoyo
+- [x]  69: linkmihoyo
 - [x]  70: stamina regen
 - [x]  71: resonance, exchange shop
-- [ ]  72: dmg, eli5damage, eli5dmg
-- [ ]  73: dk why
-- [ ]  74: rates
+- [x]  72: dmg, eli5damage, eli5dmg
+- [x]  73: dk why
+- [x]  74: rates
 - [ ]  75: resource uses
-- [ ]  76: level up break through break the ceiling experience rush
+- [x]  76: level up break through break the ceiling experience rush
 - [x]  78: salvage mats
 - [x]  80: context
 - [x]  81: battlesuit
@@ -77,16 +77,16 @@
 - [x]  84: firepower
 - [x]  85: impair
 - [x]  86: breach, elemental breach, physical breach, ele breach, phys breach
-- [ ]  87: input buffer
+- [x]  87: input buffer
 - [x]  88: divine key raid, grips of tai xuan raid, tai xuan how, divine key coop raid
 - [x]  89: gamelog
 - [x]  90: pinned polite
-- [ ]  91: valk gearing, pulling gear, pulling gacha gear
-- [ ]  93: constellation
-- [ ]  95: beta
-- [ ]  96: gold pins
+- [x]  91: valk gearing, pulling gear, pulling gacha gear
+- [x]  93: constellation
+- [x]  95: beta
+- [x]  96: gold pins
 - [x]  97: pri leveling
-- [ ]  98: future events, future banners, future supplies
+- [x]  98: future events, future banners, future supplies
 - [x] 100: valks tier list
 - [x] 101: salvage stigma
 - [x] 102: ancient
@@ -98,51 +98,51 @@
 - [x] 108: dkey what
 - [x] 109: dkey passive
 - [x] 110: suit sw
-- [ ] 111: main
-- [ ] 112: hoyolab profile, hoyolab record
-- [ ] 113: expa foca supply select
-- [ ] 114: topup event
+- [x] 111: main
+- [x] 112: hoyolab profile, hoyolab record
+- [x] 113: expa foca supply select
+- [x] 114: topup event
 - [x] 115: spoonfeed
-- [ ] 116: valk fk
-- [ ] 117: hos why
-- [ ] 118: team
-- [ ] 119: aug what
-- [ ] 120: wishing well
-- [ ] 121: duplicates, dupes
-- [ ] 122: elf unlock, elf ranks
-- [ ] 123: valk ht
-- [ ] 124: pity counter, guarantee counter
-- [ ] 125: account
-- [ ] 126: chatmt
-- [ ] 127: accrecovery
+- [x] 116: valk fk
+- [x] 117: hos why
+- [x] 118: team
+- [x] 119: aug what
+- [x] 120: wishing well
+- [x] 121: duplicates, dupes
+- [x] 122: elf unlock, elf ranks
+- [x] 123: valk ht
+- [x] 124: pity counter, guarantee counter
+- [x] 125: account
+- [x] 126: chatmt
+- [x] 127: accrecovery
 - [ ] 128: id build
 - [ ] 129: id pemula
-- [ ] 130: accid
-- [ ] 131: pc advantages, keyboard advantages, controller
-- [ ] 132: highreq
-- [ ] 133: elysian realm guide, er guide, er signets
-- [ ] 134: distance, 5 meters
-- [ ] 135: what2pull, what to pull, pull advice
-- [ ] 136: type counter
-- [ ] 137: audio57
-- [ ] 138: mirage farming, farming priority, farming order, universal mirage
-- [ ] 139: find sensei, find armada, find cadet
-- [ ] 140: ht bombard, ht breath
-- [x] 141: honaki
-- [ ] 142: 3rd party login, hoyolab login
-- [ ] 143: hoyolab google
-- [ ] 144: uid58
-- [ ] 145: unbind, unlink
+- [x] 130: accid
+- [x] 131: pc advantages, keyboard advantages, controller
+- [x] 132: highreq
+- [x] 133: elysian realm guide, er guide, er signets
+- [x] 134: distance, 5 meters
+- [x] 135: what2pull, what to pull, pull advice
+- [x] 136: type counter
+- [x] 137: audio57
+- [x] 138: mirage farming, farming priority, farming order, universal mirage
+- [x] 139: find sensei, find armada, find cadet
+- [x] 140: ht bombard, ht breath
+- [x] 141: honaki - potentially just a alias for #112
+- [x] 142: 3rd party login, hoyolab login
+- [x] 143: hoyolab google
+- [x] 144: uid58
+- [x] 145: unbind, unlink
 - [ ] 146: stigmata what
-- [ ] 147: torus income
+- [x] 147: torus income
 - [x] 148: zith
-- [ ] 149: tune
+- [x] 149: tune
 - [x] 150: pcspec
-- [ ] 151: mandown
-- [ ] 152: stamina priority, stamina spending
+- [x] 151: mandown
+- [x] 152: stamina priority, stamina spending
 - [x] 153: pcspecs
-- [ ] 154: powercreep, power creep, old valks, outdated
-- [ ] 155: power, usefulness, return on investment, roi, payoff
-- [ ] 156: dst
+- [x] 154: powercreep, power creep, old valks, outdated
+- [x] 155: power, usefulness, return on investment, roi, payoff
+- [x] 156: dst
 - [x] 157: pri priority, pri-arm priority
-- [ ] 158: early game, late game
+- [x] 158: early game, late game
