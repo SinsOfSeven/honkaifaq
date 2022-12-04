@@ -6,6 +6,7 @@ export default {
     base: "/honkaifaq/",
     lastUpdated: true,
 
+    titleTemplate: false,
     cleanUrls: "without-subfolders",
 
     themeConfig: {
