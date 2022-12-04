@@ -6,6 +6,8 @@ export default {
     base: "/honkaifaq/",
     lastUpdated: true,
 
+    cleanUrls: "without-subfolders",
+
     themeConfig: {
         sidebar: customBar()
     }
