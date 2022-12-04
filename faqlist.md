@@ -94,6 +94,7 @@
 - [x] 104: iguid
 - [x] 105: story crystals, story xtals
 - [x] 106: witch orbs, pure witch orbs, pure elf orbs, witch's corridor
+- [x] 107: dorm buffs, dorm
 - [x] 108: dkey what
 - [x] 109: dkey passive
 - [x] 110: suit sw
