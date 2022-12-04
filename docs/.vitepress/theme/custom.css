@@ -1,3 +1,7 @@
 body {
     word-break: break-word;
 }
+
+table {
+    word-break: normal;
+}
