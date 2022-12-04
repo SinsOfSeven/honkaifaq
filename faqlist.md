@@ -63,7 +63,7 @@
 - [x]  68: asterites priority, aster
 - [ ]  69: linkmihoyo
 - [x]  70: stamina regen
-- [ ]  71: resonance, exchange shop
+- [x]  71: resonance, exchange shop
 - [ ]  72: dmg, eli5damage, eli5dmg
 - [ ]  73: dk why
 - [ ]  74: rates

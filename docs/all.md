@@ -45,6 +45,7 @@
 <!--@include: faq\66.md-->
 <!--@include: faq\68.md-->
 <!--@include: faq\70.md-->
+<!--@include: faq\71.md-->
 <!--@include: faq\78.md-->
 <!--@include: faq\80.md-->
 <!--@include: faq\81.md-->
