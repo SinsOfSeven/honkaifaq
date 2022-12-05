@@ -3,11 +3,15 @@ import { readFileSync, readdirSync, openSync, writeSync } from "fs";
 import { join } from "path"
 
 function walkDir() {
-    return readdirSync("docs/faq").sort((a, b) => {
-        return a.split(".")[0] - b.split(".")[0] // looks very unsafe kek
+    return readdirSync("docs/faq", {withFileTypes: true})
+    .filter(x => {
+        return !x.isDirectory() // ignore folders
+    })
+    .sort((a, b) => {
+        return a.name.split(".")[0] - b.name.split(".")[0] // looks very unsafe kek
     })
     .map(x => {
-        return join("docs", "faq", x)
+        return join("docs", "faq", x.name)
     })
 }
 
