@@ -48,15 +48,15 @@ There are 11 multiplier categories, though most valkyries don't use all of them 
 6. Total Damage Taken
 7. Typing Bonus
 8. Dirac Weather Typing Bonus
-**9. Host Specific Physical Taken Debuff**
-**10. Host Specific Elemental Taken Debuff**
-**11. Host Specific Total Taken Debuff**
+9. **Host Specific Physical Taken Debuff**
+10. **Host Specific Elemental Taken Debuff**
+11. **Host Specific Total Taken Debuff**
 
 Any bonuses within a single category add together. Anything from seperate categories multiplies together to give the final result.
 
-As an small example, assuming no other bonuses, having 20% physical and 20% physical just gives 40% physical as your final result. Having 20% physical and 20% TDM gives you `1.2 × 1.2 = 1.44 = 44%` damage increase as final result.
+As an small example, assuming no other bonuses, having $20\%$ physical and $20\%$ physical just gives $40\%$ physical as your final result. Having $20\%$ physical and $20\%$ TDM gives you $1.2 \times 1.2 = 1.44 = 44\%$ damage increase as final result.
 
-For true multipliers, they multiply by their stated amount regardless. As an example, Thales M gives 2% host fire taken per stack, up to 10 stacks. Standalone, this is `1.02^10 ~ 1.22`, not `1.02 × 10 = 1.2`.
+For true multipliers, they multiply by their stated amount regardless. As an example, Thales M gives $2\%$ host fire taken per stack, up to 10 stacks. Standalone, this is $1.02^{10} \approx 1.22$, not $1.02 \times 10 = 1.2$.
 
 
 ## Pity
@@ -212,7 +212,7 @@ tags: abbr, abbreviations, glossary
 https://honkaiimpact3.gamepedia.com/Glossary_of_Terms
 
 
-## How Time Fracture works
+## Time Fractures and other Time Effects
 tags: tf
 
 ### Time Slow
@@ -224,28 +224,42 @@ Time Lock temporarily freezes the target in time, immobilizing them completely a
 ### Time Fracture
 Time Fracture slows the entire world, applying time slow to all enemies and also slowing the game clock. This latter effect is incredibly important for Memorial Arena, where scores on bosses are determined by the game clock time.
 
+### Time Stop
+Time Stop pauses all game timers, like stage and buff timers, it essentially allows characters to have exciting animations without impacting your gameplay. Characters who do not have timestops (older characters) can sometimes get new weapons that enable timestops for them.
+
+### Suspended Animation
+This is a community term for animations that slow the score clock timer in memorial arena, but are not a time fracture. Buffs/Debuffs still move in real time during these effects. It's similar to time stops in why it exists, to allow for cool animations without hurting your time too much. Kind of like a beta version of timestop.
+
+### Bow Aiming
+This time slowing effect slows everything, in this respect it's similar to both time stops and suspended animation. By slowing everything across the board, it gives the player a fair chance to aim without worrying about losing too much time. Time also doesn't pass quickly, so makesure your timing is good when you start, or you could miss your target.
+
 
 ## Crit damage
 tags: crt, crit
 
-`crit rate = CRT / (valk level x 5 + 75) + crit rate buffs`
-For example, a level 80 valkyrie with CRT = 140 has a crit rate of 140 / 475 = 29.5% prior to crit rate buffs.
+$$Crit Rate = \frac{CRT}{(Valk Level \times 5 + 75)} + Crit Rate Buffs$$
+For example, a level 80 valkyrie with $CRT = 140$ has a crit rate of $140 / 475 = 29.5\%$ prior to crit rate buffs.
 
-`crit dmg multiplier = 2 + crit dmg buffs`
-For example, Empyrea Phoenix (B) by itself results in crit dmg multiplier = 2.25 for the team after the holder uses a Combo atk. This means that critical hits do 2.25 times the damage of non-critical hits.
+$$Crit Dmg Multiplier = 2 + Crit Dmg Buffs$$
+For example, Empyrea Phoenix (B) by itself results in $Crit Dmg Multiplier = 2.25$ for the team after the holder uses a Combo atk. This means that critical hits do $2.25$ times the damage of non-critical hits.
 
 
 ## Evasion
 tags: evasion
 
+### Evasion Action (Evade)
 Evasion Action is pressing the button. Some valks, like KMB and GK (HoV), can trigger their Evasion Skill with their evasion action without performing an ultimate evade.
 
+### Ultimate Evasion (UE)
 Ultimate Evasion is using Evasion Action to dodge through an active hitbox. Specifically, the hitbox of the attack must come in contact with the Valkyrie's hurtbox. This distinction is important, as there are valks whose Evasion Actions can actually dodge hitboxes entirely, such as Roza's - if she outright avoids the attack by teleporting underneath it, it will not trigger an Ultimate Evasion.
 
+### Perfect Defense
 If the Valkyrie instead puts up a shield, then depending on the mechanism for defending, there are variants of this for those Valkyries. Bronya performs Perfect Defense when you shield an attack then immediately drop the shield after the attack is blocked. BK has a unique Retaliation mechanic in addition to a standard dash-type evasion action.
 
+### Evasion Skill
 Evasion Skill is an ability tied to evasion. For most valks, it activates automatically if it is not on CD and you perform an Ultimate Evasion or Perfect Defense.
 
+## Evadion (Q-Singularity)
 Evadion is built by either performing Retaliation, Perfect Defense, or an Ultimate Evasion - however, Ultimate Evasions can only earn Evadion once per internal evasion cooldown for that character.
 
 
@@ -441,6 +455,15 @@ Extra notes:
 - Using Charged Atk will not satisfy "Kill an enemy with Combo Atks" and vice versa.
 - Combo Atk is an independent concept from the Combo Hit Count (top left corner counter).
 
+[`!faq attack types`](/faq/38)
+
+
+## Server Maintenance
+tags: mtkek
+
+To check on server maintenance for your respective server, please go to [#mt-countdown](https://discord.com/channels/418652140454674432/915429456473120818) for information!
+![maint meme](https://media.discordapp.net/attachments/765817423991406602/930555055348809788/IMG_6372.png)
+
 
 ## Wrong server
 tags: wrong server
@@ -555,7 +578,10 @@ tags: pcclearcache
 **Do note that doing this will require you to login again. Linking account is highly recommended.**
 
 *also refer to system requirements:
-https://discord.com/channels/418652140454674432/427673685026013184/928289696122011668
+[`!faq pc spec`](/faq/11)
+
+![notebook](https://cdn.discordapp.com/attachments/427673685026013184/928289694654025828/unknown-4-1.png)
+![pc](https://cdn.discordapp.com/attachments/427673685026013184/928289694930858024/unknown-5-1.png)
 
 
 ## How outfit bingo works
@@ -699,14 +725,14 @@ Assumes "retention" of ranks, not bonuses from promotion.
 ## Change Bridge Valkyrie
 tags: bridgevalk
 
-**How to change Valkyrie on the bridge?**
+### How to change Valkyrie on the bridge. 
  - interact with the valkyries speech bubble.
  - it's usually blue, so interact with her till it turns white.
  - once it's white, interacting with it will give you a mini-menu.
  - select the 🔄 rotate button to change the valkyrie.
 
-> Video : <https://www.youtube.com/watch?v=2p9IJAFyPOM>
-
+### [Video Guide](https://www.youtube.com/watch?v=2p9IJAFyPOM)
+### Image Guide
 ![Step-by-Step image](https://cdn.discordapp.com/attachments/423694533595758592/802905260057559040/valkbridge.jpg)
 
 
