@@ -1,4 +1,5 @@
 import texmath from 'markdown-it-texmath'
+import multimd_table_plugin from 'markdown-it-multimd-table'
 
 export default {
     lang: "en-US",
@@ -22,7 +23,7 @@ export default {
 
         config: (md) => {
             md.use(texmath)
-            // md.use(require('markdown-it-multimd-table')) // add later for more fancy tables
+            md.use(multimd_table_plugin)
         }
     }
 }
