@@ -1,3 +1,5 @@
+import texmath from 'markdown-it-texmath'
+
 export default {
     lang: "en-US",
     title: "Honkai Impact FAQ",
@@ -16,6 +18,11 @@ export default {
     markdown: {
         toc: {
             level: [2]
+        },
+
+        config: (md) => {
+            md.use(texmath)
+            // md.use(require('markdown-it-multimd-table')) // add later for more fancy tables
         }
     }
 }

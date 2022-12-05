@@ -305,6 +305,11 @@
   "resolved" "https://registry.npmjs.org/body-scroll-lock/-/body-scroll-lock-4.0.0-beta.0.tgz"
   "version" "4.0.0-beta.0"
 
+"commander@^8.0.0":
+  "integrity" "sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww=="
+  "resolved" "https://registry.npmjs.org/commander/-/commander-8.3.0.tgz"
+  "version" "8.3.0"
+
 "csstype@^2.6.8":
   "integrity" "sha512-Z1PhmomIfypOpoMjRQB70jfvy/wxT50qW08YXO5lMIJkrdq4yOTR+AW7FqutScmB9NkLwxo+jU+kZLbofZZq/w=="
   "resolved" "https://registry.npmjs.org/csstype/-/csstype-2.6.21.tgz"
@@ -372,12 +377,24 @@
   "resolved" "https://registry.npmjs.org/jsonc-parser/-/jsonc-parser-3.2.0.tgz"
   "version" "3.2.0"
 
+"katex@^0.16.3":
+  "integrity" "sha512-3EykQddareoRmbtNiNEDgl3IGjryyrp2eg/25fHDEnlHymIDi33bptkMv6K4EOC2LZCybLW/ZkEo6Le+EM9pmA=="
+  "resolved" "https://registry.npmjs.org/katex/-/katex-0.16.3.tgz"
+  "version" "0.16.3"
+  dependencies:
+    "commander" "^8.0.0"
+
 "magic-string@^0.25.7":
   "integrity" "sha512-RmF0AsMzgt25qzqqLc1+MbHmhdx0ojF2Fvs4XnOqz2ZOBXzzkEwc/dJQZCYHAn7v1jbVOjAZfK8msRn4BxO4VQ=="
   "resolved" "https://registry.npmjs.org/magic-string/-/magic-string-0.25.9.tgz"
   "version" "0.25.9"
   dependencies:
     "sourcemap-codec" "^1.4.8"
+
+"markdown-it-texmath@^1.0.0":
+  "integrity" "sha512-4hhkiX8/gus+6e53PLCUmUrsa6ZWGgJW2XCW6O0ASvZUiezIK900ZicinTDtG3kAO2kon7oUA/ReWmpW2FByxg=="
+  "resolved" "https://registry.npmjs.org/markdown-it-texmath/-/markdown-it-texmath-1.0.0.tgz"
+  "version" "1.0.0"
 
 "nanoid@^3.3.4":
   "integrity" "sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw=="
@@ -466,9 +483,9 @@
     "fsevents" "~2.3.2"
 
 "vitepress@^1.0.0-alpha.29":
-  "integrity" "sha512-oaRaeMLcN9M3Bxz97fFVF6Gzm3Aqtb0CijTt5TOW0XPzNPuKA0YpFnsmS97gdKmA+VztM6itRJ8K7JJuU0VS3g=="
-  "resolved" "https://registry.npmjs.org/vitepress/-/vitepress-1.0.0-alpha.29.tgz"
-  "version" "1.0.0-alpha.29"
+  "integrity" "sha512-CjIqKkGAuvoP2IWBFIbYWyiMSHSGYvjPy7eDkdftawguv5a8w4AjM95VV4Lhyacev4AFcgK23FViibRluBMePw=="
+  "resolved" "https://registry.npmjs.org/vitepress/-/vitepress-1.0.0-alpha.30.tgz"
+  "version" "1.0.0-alpha.30"
   dependencies:
     "@docsearch/css" "^3.3.0"
     "@docsearch/js" "^3.3.0"
