@@ -8,6 +8,7 @@ Uncategorized:
 -   37: rankup
 -   39: bd holder
 -   41: awaken
+-   43: mtkek
 -   51: augment
 -   53: pri costs
 -   55: bingo
@@ -141,28 +142,33 @@ Outdated:
 -  138: mirage farming, farming priority, farming order, universal mirage
 
 Missing:
--   13: fr tierlist, fr valks
--   14: fr pont
--   15: fr new
--   16: fr dmg
 -   17: fr stamina
--   18: fr rank
--   19: faq fr bounty
--   24: fr subs
--   25: fr pri
 -   26: faq shortcuts
--   29: fr oeuf
--   30: fr xp
--   31: fr xtal
 -   32: bounty
 -   36: bug
--   40: huevo
--   43: mtkek
--   47: daños
--   56: abreviaciones
--   57: mantenimiento
 -   67: check ranking
 -   75: resource uses
+-  146: stigmata what
+
+French:
+-   13: fr tierlist, fr valks # abbreviations
+-   14: fr pont # bridge Valk
+-   15: fr new
+-   16: fr dmg
+-   18: fr rank
+-   19: fr bounty
+-   24: fr subs # subtitles
+-   25: fr pri
+-   29: fr oeuf # s rank egg
+-   30: fr xp
+-   31: fr xtal
+
+Indonesian:
 -  128: id build
 -  129: id pemula
--  146: stigmata what
+
+Spanish:
+-   40: huevo # s rank egg
+-   47: daños # damage
+-   56: abreviaciones # abbreviations
+-   57: mantenimiento # maint
