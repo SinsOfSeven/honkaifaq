@@ -128,7 +128,6 @@
 - [unbind, unlink](/faq/145)
 - [pcspec](/faq/150)
 - [mandown](/faq/151)
-- [pcspecs](/faq/153)
 - [dst](/faq/156)
 
 ## Fluff
@@ -139,7 +138,6 @@
 - [valks tier list](/faq/100)
 - [spoonfeed](/faq/115)
 - [chatmt](/faq/126)
-- [honaki - potentially just a alias for](/faq/141)
 - [zith](/faq/148)
 
 ## Outdated

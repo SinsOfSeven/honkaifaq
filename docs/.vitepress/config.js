@@ -29,7 +29,7 @@ function customBar() {
         {
             text: "All faqs",
             items: [
-                {text: "Compiled", link: "/all"}
+                {text: "Archive", link: "/archive"}
             ]
         },
         {

@@ -27,7 +27,7 @@ function processCategory(category, baseURL) {
 
     category.forEach(el => {
         for (const [key, value] of Object.entries(el)) {
-            console.log(`${key}: ${value}`);
+            // console.log(`${key}: ${value}`);
             result += `- [${value}](${baseURL + key})\n`
           }
     });

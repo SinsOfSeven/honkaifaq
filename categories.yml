@@ -123,7 +123,7 @@ Technical-help:
 - 145: unbind, unlink
 - 150: pcspec
 - 151: mandown
-- 153: pcspecs
+# - 153: pcspecs - dupe of 150?
 - 156: dst
 
 Fluff:
@@ -134,7 +134,7 @@ Fluff:
 - 100: valks tier list
 - 115: spoonfeed
 - 126: chatmt
-- 141: honaki - potentially just a alias for #112
+# - 141: honaki - potentially just a alias for 112
 - 148: zith
 
 Outdated:
