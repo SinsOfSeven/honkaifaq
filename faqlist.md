@@ -9,23 +9,23 @@
 - [x]  10: pc, pc ver, pc login
 - [x]  11: pc specs, spec, specs
 - [x]  12: huawei
-- [ ]  13: fr tierlist, fr valks
-- [ ]  14: fr pont
-- [ ]  15: fr new
-- [ ]  16: fr dmg
+- [x]  13: fr tierlist, fr valks
+- [x]  14: fr pont
+- [x]  15: fr new
+- [x]  16: fr dmg
 - [ ]  17: fr stamina
-- [ ]  18: fr rank
-- [ ]  19: faq fr bounty
+- [x]  18: fr rank
+- [x]  19: faq fr bounty
 - [x]  20: hov
 - [x]  22: abbreviations, abbr
-- [ ]  24: fr subs
-- [ ]  25: fr pri
+- [x]  24: fr subs
+- [x]  25: fr pri
 - [ ]  26: faq shortcuts
 - [x]  27: tf
 - [x]  28: crt
-- [ ]  29: fr oeuf
-- [ ]  30: fr xp
-- [ ]  31: fr xtal
+- [x]  29: fr oeuf
+- [x]  30: fr xp
+- [x]  31: fr xtal
 - [ ]  32: bounty
 - [x]  33: evasion
 - [x]  34: egg
@@ -34,14 +34,14 @@
 - [x]  37: rankup
 - [x]  38: attack types
 - [x]  39: bd holder
-- [ ]  40: huevo
+- [x]  40: huevo
 - [x]  41: awaken
 - [x]  42: combo attack, charged attack, branch attack
-- [ ]  43: mtkek
+- [x]  43: mtkek
 - [x]  44: wrong server
 - [x]  45: katana choice
 - [x]  46: time capsule
-- [ ]  47: daños
+- [x]  47: daños
 - [x]  48: growth fund
 - [x]  49: gamepath
 - [x]  50: difficulty
@@ -49,8 +49,8 @@
 - [x]  53: pri costs
 - [x]  54: pcclearcache
 - [x]  55: bingo
-- [ ]  56: abreviaciones
-- [ ]  57: mantenimiento
+- [x]  56: abreviaciones
+- [x]  57: mantenimiento
 - [x]  59: reroll
 - [x]  60: goals
 - [x]  61: whatserver
@@ -115,8 +115,8 @@
 - [x] 125: account
 - [x] 126: chatmt
 - [x] 127: accrecovery
-- [ ] 128: id build
-- [ ] 129: id pemula
+- [x] 128: id build
+- [x] 129: id pemula
 - [x] 130: accid
 - [x] 131: pc advantages, keyboard advantages, controller
 - [x] 132: highreq
