@@ -17,10 +17,6 @@ export default {
     },
 
     markdown: {
-        toc: {
-            level: [2]
-        },
-
         config: (md) => {
             md.use(texmath)
             md.use(multimd_table_plugin)
