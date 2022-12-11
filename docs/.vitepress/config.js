@@ -1,7 +1,9 @@
+import { defineConfig } from 'vitepress'
+
 import texmath from 'markdown-it-texmath'
 import multimd_table_plugin from 'markdown-it-multimd-table'
 
-export default {
+export default defineConfig({
     lang: "en-US",
     title: "Honkai Impact FAQ",
     description: "Compiled list of FAQ from Honkai Impact 3rd Official Discord server",
@@ -23,8 +25,17 @@ export default {
                 rowspan: true,
             })
         }
+    },
+
+    async transformHead(ctx) {
+        if (Object.prototype.hasOwnProperty.call(ctx.pageData.frontmatter, "preview")) {
+            // console.dir(ctx.pageData.frontmatter?.["preview"])
+            return [["meta", {"property": "og:image", "content": ctx.pageData.frontmatter["preview"]}]]
+        } else {
+            return []
+        }
     }
-}
+})
 
 function customBar() {
     return [
