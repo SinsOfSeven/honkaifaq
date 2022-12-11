@@ -29,6 +29,13 @@ export default {
 function customBar() {
     return [
         {
+            text: "Updated",
+            items: [
+                {text: "Battlesuit Ranks and Fragments", link: "/faq/9001"},
+                {text: "What to buy from shops", link: "/faq/9002"}
+            ]
+        },
+        {
             text: "All faqs",
             items: [
                 {text: "Archive", link: "/archive"}
