@@ -28,11 +28,17 @@ export default defineConfig({
     },
 
     async transformHead(ctx) {
+        let base = [
+            ["meta", {"property": "og:type", "content": "website"}],
+            ["meta", {"property": "og:title", "content": ctx.pageData.title}],
+            ["meta", {"property": "og:description", "content": ctx.pageData.description}]
+        ]
+
         if (Object.prototype.hasOwnProperty.call(ctx.pageData.frontmatter, "preview")) {
             // console.dir(ctx.pageData.frontmatter?.["preview"])
-            return [["meta", {"property": "og:image", "content": ctx.pageData.frontmatter["preview"]}]]
+            return base.concat([["meta", {"property": "og:image", "content": ctx.pageData.frontmatter["preview"]}]])
         } else {
-            return []
+            return base
         }
     }
 })
