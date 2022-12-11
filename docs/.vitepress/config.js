@@ -19,7 +19,9 @@ export default {
     markdown: {
         config: (md) => {
             md.use(texmath)
-            md.use(multimd_table_plugin)
+            md.use(multimd_table_plugin, {
+                rowspan: true,
+            })
         }
     }
 }
