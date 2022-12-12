@@ -8,13 +8,14 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "prebuild": "node scripts/alternativeIndex"
+    "prebuild": "node scripts/buildArchive"
   },
   "devDependencies": {
     "katex": "^0.16.3",
     "markdown-it-multimd-table": "^4.2.0",
     "markdown-it-texmath": "^1.0.0",
     "vitepress": "^1.0.0-alpha.29",
-    "vue": "^3.2.45"
+    "vue": "^3.2.45",
+    "yaml": "^2.1.3"
   }
 }

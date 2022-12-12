@@ -1,7 +1,9 @@
+import { defineConfig } from 'vitepress'
+
 import texmath from 'markdown-it-texmath'
 import multimd_table_plugin from 'markdown-it-multimd-table'
 
-export default {
+export default defineConfig({
     lang: "en-US",
     title: "Honkai Impact FAQ",
     description: "Compiled list of FAQ from Honkai Impact 3rd Official Discord server",
@@ -17,23 +19,43 @@ export default {
     },
 
     markdown: {
-        toc: {
-            level: [2]
-        },
-
         config: (md) => {
             md.use(texmath)
-            md.use(multimd_table_plugin)
+            md.use(multimd_table_plugin, {
+                rowspan: true,
+            })
+        }
+    },
+
+    async transformHead(ctx) {
+        let base = [
+            ["meta", {"property": "og:type", "content": "website"}],
+            ["meta", {"property": "og:title", "content": ctx.pageData.title}],
+            ["meta", {"property": "og:description", "content": ctx.pageData.description}]
+        ]
+
+        if (Object.prototype.hasOwnProperty.call(ctx.pageData.frontmatter, "preview")) {
+            // console.dir(ctx.pageData.frontmatter?.["preview"])
+            return base.concat([["meta", {"property": "og:image", "content": ctx.pageData.frontmatter["preview"]}]])
+        } else {
+            return base
         }
     }
-}
+})
 
 function customBar() {
     return [
         {
+            text: "Updated",
+            items: [
+                {text: "Battlesuit Ranks and Fragments", link: "/faq/9001"},
+                {text: "What to buy from shops", link: "/faq/9002"}
+            ]
+        },
+        {
             text: "All faqs",
             items: [
-                {text: "Compiled", link: "/all"}
+                {text: "Archive", link: "/archive"}
             ]
         },
         {
