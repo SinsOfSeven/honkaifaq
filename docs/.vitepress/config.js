@@ -28,10 +28,16 @@ export default defineConfig({
     },
 
     async transformHead(ctx) {
+        let description = ctx.siteData.description
+
+        if (Object.prototype.hasOwnProperty.call(ctx.pageData.frontmatter, "description")) {
+            description = ctx.pageData.frontmatter["description"]
+        }
+
         let base = [
             ["meta", {"property": "og:type", "content": "website"}],
             ["meta", {"property": "og:title", "content": ctx.pageData.title}],
-            ["meta", {"property": "og:description", "content": ctx.pageData.description}]
+            ["meta", {"property": "og:description", "content": description}]
         ]
 
         if (Object.prototype.hasOwnProperty.call(ctx.pageData.frontmatter, "preview")) {
