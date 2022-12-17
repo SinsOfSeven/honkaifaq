@@ -5,3 +5,6 @@ body {
 table {
     word-break: normal;
 }
+
+/* katex line break fix */
+.katex-display { overflow: auto hidden }
