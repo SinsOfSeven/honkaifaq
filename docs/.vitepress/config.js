@@ -69,7 +69,7 @@ function customBar() {
         {
             text: "All faqs",
             items: [
-                {text: "Archive", link: "/archive"}
+                {text: "Archive", link: "/faq/"}
             ]
         },
         {

@@ -4,6 +4,6 @@ You can open any faq just by entering its id in address bar (e.g. [`/faq/1`](/fa
 
 - use Navigation links in sidebar, 
 
-- or can also check [This page with archive of all faqs](archive)
+- or can also check [This page with archive of all faqs](/faq/)
 
 Enjoy!

@@ -69,7 +69,7 @@ function main() {
             result += processCategory(category, baseURL)
         }
     }    
-    writeFileSync("docs/archive.md", result)
+    writeFileSync("docs/faq/index.md", result)
 }
 
 const regionalPath = {
