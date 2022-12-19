@@ -18,6 +18,12 @@ export default defineConfig({
         sidebar: customBar()
     },
 
+    head: [
+        ["link", {"rel": "icon", "sizes": "any", "href": "/favicon.ico"}],
+        ["link", {"rel": "icon", "type": "image/svg+xml", "href": "icon.svg"}],
+        ["link", {"rel": "manifest", "href": "/manifest.webmanifest"}]
+    ],
+
     markdown: {
         config: (md) => {
             md.use(texmath)
