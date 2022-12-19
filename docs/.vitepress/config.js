@@ -8,7 +8,7 @@ export default defineConfig({
     title: "Honkai Impact FAQ",
     description: "Compiled list of FAQ from Honkai Impact 3rd Official Discord server",
     appearance: "dark",
-    base: "/honkaifaq/",
+    base: "/",
     lastUpdated: true,
 
     titleTemplate: false,
