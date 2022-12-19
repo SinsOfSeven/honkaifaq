@@ -1,4 +1,5 @@
 - [x]   1: war treasury
+- [ ]   2: ???
 - [x]   3: damage, damage types
 - [x]   4: how pity works, pity
 - [x]   5: expedition
@@ -17,7 +18,9 @@
 - [x]  18: fr rank
 - [x]  19: faq fr bounty
 - [x]  20: hov
+- [ ]  21: ???
 - [x]  22: abbreviations, abbr
+- [ ]  23: ???
 - [x]  24: fr subs
 - [x]  25: fr pri
 - [ ]  26: faq shortcuts
@@ -46,11 +49,13 @@
 - [x]  49: gamepath
 - [x]  50: difficulty
 - [x]  51: augment
+- [ ]  52: ???
 - [x]  53: pri costs
 - [x]  54: pcclearcache
 - [x]  55: bingo
 - [x]  56: abreviaciones
 - [x]  57: mantenimiento
+- [ ]  58: ???
 - [x]  59: reroll
 - [x]  60: goals
 - [x]  61: whatserver
@@ -69,7 +74,9 @@
 - [x]  74: rates
 - [ ]  75: resource uses
 - [x]  76: level up break through break the ceiling experience rush
+- [ ]  77: ???
 - [x]  78: salvage mats
+- [ ]  79: ???
 - [x]  80: context
 - [x]  81: battlesuit
 - [x]  82: reaction
@@ -82,11 +89,14 @@
 - [x]  89: gamelog
 - [x]  90: pinned polite
 - [x]  91: valk gearing, pulling gear, pulling gacha gear
+- [ ]  92: ???
 - [x]  93: constellation
+- [ ]  94: ???
 - [x]  95: beta
 - [x]  96: gold pins
 - [x]  97: pri leveling
 - [x]  98: future events, future banners, future supplies
+- [ ]  99: ???
 - [x] 100: valks tier list
 - [x] 101: salvage stigma
 - [x] 102: ancient
