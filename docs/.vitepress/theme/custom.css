@@ -8,3 +8,6 @@ table {
 
 /* katex line break fix */
 .katex-display { overflow: auto hidden }
+.katex-display > .katex {
+    white-space: normal;
+}
