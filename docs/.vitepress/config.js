@@ -15,7 +15,8 @@ export default defineConfig({
     cleanUrls: "without-subfolders",
 
     themeConfig: {
-        sidebar: customBar()
+        sidebar: customBar(),
+        outline: [2,3]
     },
 
     head: [
