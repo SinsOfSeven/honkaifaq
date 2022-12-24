@@ -52,14 +52,24 @@ export default defineConfig({
         let base = [
             ["meta", {"property": "og:type", "content": "website"}],
             ["meta", {"property": "og:title", "content": ctx.pageData.title}],
-            ["meta", {"property": "og:description", "content": description}]
+            ["meta", {"property": "og:description", "content": description}],
+
+            ["meta", {"name": "twitter:title", "content": ctx.pageData.title}],
+            ["meta", {"name": "twitter:description", "content": description}],
         ]
 
         if (Object.prototype.hasOwnProperty.call(ctx.pageData.frontmatter, "preview")) {
-            // console.dir(ctx.pageData.frontmatter?.["preview"])
-            return base.concat([["meta", {"property": "og:image", "content": ctx.pageData.frontmatter["preview"]}]])
+            return base.concat([
+                ["meta", {"property": "og:image", "content": ctx.pageData.frontmatter["preview"]}],
+                ["meta", {"name": "twitter:image", "content": ctx.pageData.frontmatter["preview"]}],
+                ["meta", {"name": "twitter:card", "content": "summary_large_image"}]
+            ])
         } else {
-            return base
+            return base.concat([
+                ["meta", {"property": "og:image", "content": "https://honkaifaq.vercel.app/icon-512.png"}],
+                ["meta", {"name": "twitter:image", "content": "https://honkaifaq.vercel.app/icon-512.png"}],
+                ["meta", {"name": "twitter:card", "content": "summary"}]
+            ])
         }
     }
 })
